@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![KakaoTalk_Photo_2022-04-12-09-34-44](https://user-images.githubusercontent.com/12194505/162855213-47c7c269-92bf-4059-ae3e-e6190c113669.jpeg)
+
 <!--
 **JYongHun/JYongHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
