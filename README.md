@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 ## i was born in 2009 🤔
 
@@ -16,6 +17,8 @@ https://github.com/JYongHun/JYongHun/assets/12194505/fa21a3a5-55aa-48a1-8e21-3b5
 
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYongHun&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=JYongHun&show_icons=true">
 
 
 
